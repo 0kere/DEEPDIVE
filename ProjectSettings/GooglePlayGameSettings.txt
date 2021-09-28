@@ -1,0 +1,9 @@
+lastUpgrade=01012
+proj.pluginVersion=0.10.12
+proj.AppId=587871374012
+and.BundleId=com.JSG.DEEPDIVE
+proj.classDir=Assets
+proj.ConstantsClassName=DEEPDIVE.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e587871374012%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.JSG.DEEPDIVE%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+High+Score--%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22+translatable%3d%22false%22%3eCgkIvJX1_o0REAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=587871374012-0jn14tu8auhhu9qc0b7vjmap01q4hjk6.apps.googleusercontent.com
+android.SetupDone=true
